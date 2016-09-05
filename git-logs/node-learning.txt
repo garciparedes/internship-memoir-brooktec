@@ -1,0 +1,296 @@
+commit 0af7a120f7973711904b7ea1b2077c110a4bdfaf
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 26 17:39:26 2016 +0200
+
+    .idea commit
+
+commit c6aafd08e720341a4ed68be8a6d9354faa8ac48b
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 26 13:39:16 2016 +0200
+
+    Added .idea to gitignore
+
+commit 242ce46241c4c32a54438d0095ddd1b1d9baec15
+Merge: e0e72c0 9fa6557
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Tue Jul 26 12:58:49 2016 +0200
+
+    Merge pull request #10 from garciparedes/shopping-list-web
+    
+    Shopping list web
+
+commit 9fa6557dfd044a3397f00349eb4da80b848ce7e4
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 26 12:51:41 2016 +0200
+
+    implemented logout and renamed logged to signed
+
+commit ab3a3a9e596567b79e982dd76e1d938cd62fe65d
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 26 12:37:54 2016 +0200
+
+    rearranged paths
+
+commit e0e72c07814cc09c20a726bfe2450832095513f3
+Merge: 53bd58e f422136
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Tue Jul 26 10:59:50 2016 +0200
+
+    Merge pull request #4 from garciparedes/shopping-list-web
+    
+    Shopping list web
+
+commit f42213643cb09f7129eb29936917551bcb5eb0b8
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 26 10:44:10 2016 +0200
+
+    fixed minor bug that didn't allow compilation
+
+commit 5d214aa86e3d02ed95a173ea74414deda036ed5c
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 26 10:40:18 2016 +0200
+
+    Implemented redirect to login view
+
+commit 226ab8ae2cfbc6a9e434fd7c71c0d893d9657745
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 25 17:31:49 2016 +0200
+
+    Added redirection to login
+
+commit 3805d0297d75e8378643f807a26dd78e6b22d252
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 25 13:05:31 2016 +0200
+
+    Fixed bug with file paths
+
+commit c0177b91f712b65c800597cc6d86d63a7b9ebb5a
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 25 12:26:38 2016 +0200
+
+    Worked on user login
+
+commit 7028e324e19846a51deed4434a1db34a47b44b9f
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 25 10:42:08 2016 +0200
+
+    Trying to rearrange imports
+
+commit 99dd17879a7af8074d1099c20821a46711f17490
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 25 10:24:38 2016 +0200
+
+    Added individual item view
+
+commit edb24f8decf92b07091d04b6a03f1b787cac2fdd
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 25 10:00:40 2016 +0200
+
+    Added login and signin templates from http://bootsnipp.com/lafina
+
+commit ef6b3c0c1643e80c6a7a14393397b2654f8c15b0
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 25 09:13:15 2016 +0200
+
+    Fixed onclick bug with checkbox
+
+commit e367d6c5609952d29a452f6a0bde7467a60effe9
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 22 14:43:08 2016 +0200
+
+    Improved views
+
+commit 892b96f771be08e7adfe9df79a54622afccdd9f4
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 22 13:06:37 2016 +0200
+
+    Added wikipedia description
+
+commit 50b3f0be13ccdf86cd115d978838d1b3cd30f3c0
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 22 10:13:43 2016 +0200
+
+    Working on product details
+
+commit 43bff964f0617702d0364421814b8da0b0ca0b05
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 17:56:28 2016 +0200
+
+    working on product details
+
+commit e1fc7fdfb2a016ecef5d24c41204e834d4596362
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 17:20:35 2016 +0200
+
+    Improve style
+
+commit 5e623affe5703fb9c829b4cc416490254479d638
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 16:49:17 2016 +0200
+
+    Added FAB button and removed history view
+
+commit 3acc86df0c28a565f3acc3562733d9372659df7b
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 13:55:15 2016 +0200
+
+    Implementing barrel
+
+commit a7c5f2974532e7e5bfdb470260d3875d95b8d0d9
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 13:12:29 2016 +0200
+
+    Working on project structure
+
+commit 1c9ed5bf35a916e69bd8ea0f31ab104bc02a68f5
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 12:18:52 2016 +0200
+
+    Modularized toolbar in new component.
+
+commit b6b8061be64ef75365139b262158a77f4fbe067a
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 12:07:29 2016 +0200
+
+    Improved page structure and worked on products view.
+
+commit d4292eca4263c2596820af083c671a2f2f85464a
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 21 10:11:43 2016 +0200
+
+    Added Bootstrap and project structure
+
+commit e61be4ffc8242540d3fa18b25e642755e199bbe7
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 17:17:56 2016 +0200
+
+    Added bootstrap
+
+commit a2ad16f794562eba0e0557099bab4009a9865270
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 16:24:02 2016 +0200
+
+    Working on getItems
+
+commit 12049ef9debd06a8efa949441f91c5ccdbfb3279
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 16:50:13 2016 +0200
+
+    working on auth
+
+commit 02b35605db7ed2e95971d4b814e493f58b183bd8
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 10:50:28 2016 +0200
+
+    Now items is showing
+
+commit 169a73896ec89277990bac7bf96a39f86b5f4eca
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 20:12:13 2016 +0200
+
+    Working on Shopping List web
+
+commit 9786175d9f677880564c858b9637a13a9d86a8ab
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 19:55:09 2016 +0200
+
+    Created project skeleton
+
+commit ed816ac645bf9b6c0bdf470247c17a754244e764
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 19:31:13 2016 +0200
+
+    Created shopping-list-web project
+
+commit 53bd58ee91dd4dbda5b59d30640571b6c7b8d8ea
+Merge: c040569 cea8388
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 11:08:32 2016 +0200
+
+    Merge pull request #3 from garciparedes/angular-2
+    
+    Angular 2
+
+commit cea838830020a53d9706c41092ff17767c6b6076
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 11:04:51 2016 +0200
+
+    Fixed minor bugs
+
+commit 039f2eaedb987cc062a32e5826f333e9e604e8d8
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 15 14:57:48 2016 +0200
+
+    Fixed bug
+
+commit 1513f7776b43e38267d4fff3e9935b599a689ba8
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 15 14:48:57 2016 +0200
+
+    Doing tour-of-heroes-tutorial
+
+commit 55abdc3df1a0b2c74bf19286b91747071456e0fb
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 15 13:27:35 2016 +0200
+
+    Doing 'Tour of Heroes' Angular2 tutorial https://angular.io/docs/ts/latest/tutorial/
+
+commit 9bfae643c0e30b4d7d02e94dbd5e6a36d2b1e7a3
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 15 09:31:10 2016 +0200
+
+    Done quickstart of angular 2 https://angular.io/docs/ts/latest/quickstart.html
+
+commit c0405690a6cc08903415bd991094626b7db56f07
+Merge: 36f1ff0 8a5e3a3
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Thu Jul 14 17:50:15 2016 +0200
+
+    Merge pull request #2 from garciparedes/typescript-tutorial
+    
+    Typescript tutorial
+
+commit 8a5e3a345357cd432cd21390eeece93f50d7d911
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 17:48:46 2016 +0200
+
+    Added TypeScript gulp tutorial
+
+commit 395138033853c29eeb534c2857936cf1b57b8fbc
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 17:15:33 2016 +0200
+
+    Done quickstart tutorial of typescript
+
+commit c69448465f9ad1b715d0e8fe9cd5db7e4c5318ba
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 16:37:59 2016 +0200
+
+    Added config files of tutorial
+
+commit 36f1ff0d8e4962ae4d280f2c3e4a5aec87733f7f
+Merge: 9fd9710 ee2e8e2
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Thu Jul 14 16:20:39 2016 +0200
+
+    Merge pull request #1 from garciparedes/gulp-introduction
+    
+    Gulp introduction
+
+commit ee2e8e2dfa9475ecaf1283ac4be3be2f1cfdfd73
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 16:11:49 2016 +0200
+
+    Fixed bug with gulp-inject and dirnames
+
+commit 3c8ae161c41329b88a09b2cb883e0c92aed3f18c
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 15:46:50 2016 +0200
+
+    Added sass compilation and index imports
+
+commit 9fd9710628099eee06fcbbd00e8c627f17bc6772
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 13:19:56 2016 +0200
+
+    First Commit

@@ -1,0 +1,33 @@
+commit 3736e24c3ee6344382ed2b1a01598ea8a05f6f49
+Merge: c51de63 3a8ec79
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 13 14:00:47 2016 +0200
+
+    WIP on theme-options: c51de63 Added social networks
+
+commit 3a8ec7978cb83c177f2081970510ec10f257f813
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 13 14:00:47 2016 +0200
+
+    index on theme-options: c51de63 Added social networks
+
+commit 4e72110f71f1a3e0f404c9723554206130f9754c
+Merge: 8201645 64b5d37
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Wed Jul 13 11:18:19 2016 +0200
+
+    Merge pull request #1 from garciparedes/bootstrap
+    
+    Bootstrap
+
+commit 3f36f50da082654c2b45386917df2e52ae292a93
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Tue Jul 12 23:11:53 2016 +0200
+
+    Improved code
+
+commit 47a624cfd8b2b47eec7ba23c9cef4c4053028f7e
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Tue Jul 12 20:01:44 2016 +0200
+
+    Added bootstrap

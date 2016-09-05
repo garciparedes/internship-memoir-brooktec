@@ -1,0 +1,258 @@
+commit f209039f16c59641d79bb0c3b92ea5bbad4c4fdd
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 8 10:26:30 2016 +0200
+
+    Minor change css
+
+commit e66d1d5fc68581e8ffa9515548b0184a65863082
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 8 10:21:54 2016 +0200
+
+    Fixed problem with clients grid image ratio
+
+commit d424dbd502a6bff9007ec011f2ea653938e06cba
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 8 10:02:48 2016 +0200
+
+    Hot fix Team Member images
+
+commit 06632de6ac23d93cc5dde3380a0fbedd2cb2cccc
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 8 09:00:50 2016 +0200
+
+    Improved client modal css and added menu items class with item name: "menu-item-(name of item)"
+
+commit a1d8d4aad7f584263133a3fb747299f4738529e9
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 5 14:55:13 2016 +0200
+
+    Improved css of modal
+
+commit f5b50aefdfb967bf6b4ea40df8a4d4e9a49f23a6
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 5 14:50:10 2016 +0200
+
+    Worked on clients list and modal
+
+commit bd20e1a85d8936c8269209a3a54321e572419097
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 5 10:53:07 2016 +0200
+
+    Fixed click behaviour in mobile versions with team grid
+
+commit 9d6e2880a6b3b438b7014deb8daa0b2b12ee661c
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 5 09:54:57 2016 +0200
+
+    Renamed and reformat code from socialshare to social
+
+commit cabed1a453e8a42105d3d3c8fc188d31b11e652f
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 5 09:33:56 2016 +0200
+
+    Worked on Team Member's grid
+
+commit e8d1cec43ebf664d0b69c416517c3c35883afe68
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 4 14:53:36 2016 +0200
+
+    Worked on team grid and added custom fields to team members
+
+commit 98f25575d750074c4bc2cbfde63ac2da7adf66dd
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 4 10:37:19 2016 +0200
+
+    Worked on about page structure
+
+commit d8b9d7079bb924db37706434b83e96781d677bb9
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 14:46:06 2016 +0200
+
+    Worked on About page structure and added custom fields to it
+
+commit 51ca2932c7ad5d7edccaa241efcc962b73f2ef72
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 14:24:04 2016 +0200
+
+    div id name unified
+
+commit 5874a97b264651dd0ffd2b85f9925f111b7cfcb2
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 14:21:34 2016 +0200
+
+    Created page-about
+
+commit b6212fc669d3bedb0d206762f66d0ba18af749d3
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 2 10:18:43 2016 +0200
+
+    Improved structure style of Service page
+
+commit d7168edf356b96c5716c34142631f2cd5c4ce4ed
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 2 09:46:52 2016 +0200
+
+    Worked on Youtube insert video in Services page
+
+commit 75d762a2bc387ce11e636608baa948a973db1f26
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 1 14:53:43 2016 +0200
+
+    Worked on video insertion
+
+commit bb1fc9bd9cba7543f2a9073f4c51f2748c96c561
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 1 13:00:58 2016 +0200
+
+    Added related works to service single page
+
+commit a1db25fa2e97a63686169fb5bdd2f6e70ede0865
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 1 11:40:15 2016 +0200
+
+    Added custom fields to services and worked on it view
+
+commit cd80f6b12a36c93f35d4f6ff36bf64fbaf7f4934
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 1 09:35:53 2016 +0200
+
+    Worked on services list
+
+commit b2d8efde574cb4276960bac48327ee788b816014
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 1 08:28:23 2016 +0200
+
+    Added date styles of recent posts
+
+commit c7e456e94984ebda2edca3d62397a1027dc862c9
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 1 08:23:50 2016 +0200
+
+    Improved css of post view
+
+commit dbf6f409321aadb625e07eb9d960c7e1ab5575e3
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Jul 29 14:28:44 2016 +0200
+
+    Worked on single post view
+
+commit dd1fe6ddfdfe993f34ba3b5a742bcb78e296857d
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Jul 29 14:01:19 2016 +0200
+
+    Improved styles
+
+commit edd3f65318c109da2eb3c62f006448d7a17211f0
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Jul 29 13:54:19 2016 +0200
+
+    Improved style of index posts page
+
+commit e59c847579c4621f9ed5c3d2570021ec5e322e3b
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Jul 29 12:32:40 2016 +0200
+
+    Worked on entry metadata
+
+commit 513c662a1bc3e2a0629f5c0473e6750458a5fe26
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Jul 29 10:40:22 2016 +0200
+
+    worked on entry view of posts
+
+commit f4f162033a1ad4026478d421dba6ff06dbce1a94
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Jul 28 17:54:14 2016 +0200
+
+    Worked on entry style
+
+commit be194b8f86296e55b3dd5d8cdc3e3445fc976ec9
+Merge: 72ce432 865fbbb
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 28 17:29:13 2016 +0200
+
+    Merge branch 'feature/contact-page' into feature/blog-home-page
+
+commit 865fbbb95249116d1ed1df34236648700d32e464
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 28 17:26:47 2016 +0200
+
+    Modularised office custom posts
+
+commit 72ce4329affcdf551ef56ce871500440f1163755
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 28 17:16:38 2016 +0200
+
+    Worked on file structure of index page
+
+commit 62ec0723e731904b0ad34c17b69f052de6c63ea2
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 28 15:32:39 2016 +0200
+
+    Worked on office view styles on contact page
+
+commit f59ced48fc84986650be64c83ab3efb286fc472c
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 28 13:08:50 2016 +0200
+
+    Improved lang bar and map marker
+
+commit 4fbac5da81fb14756cb83d268e669f7c3d94358b
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 28 11:44:43 2016 +0200
+
+    Added new custom field on Office post to allow custom location text format
+
+commit 8b62352417140755461c33f23dd573993816556a
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 28 10:37:03 2016 +0200
+
+    Improved style of Contact Page
+
+commit 1c1b33dc11b456a1b76c076d5f45c75c71aa7af0
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 17:55:00 2016 +0200
+
+    Worked on Maps of Contact View
+
+commit ec3175b9e9b1feec77b7cf1bbf383811ca17c69b
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 17:45:49 2016 +0200
+
+    API KEY NEED FIX!!
+
+commit ebf4702fcd1f4f236effd75697e686647f1eec53
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 16:38:06 2016 +0200
+
+    Worked on contact page
+
+commit 8b8a286ee4eb4e0266b1b085d051bf33f571ed57
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 15:40:22 2016 +0200
+
+    Added office custom fields and created page-contact template
+
+commit c9fb1a5339af3794d88e759255d8634b2ba7b0fa
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 13:22:58 2016 +0200
+
+    Worked on header of pages
+
+commit 062cacb825301697d91120c370dd4688a38daf3c
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 13:04:07 2016 +0200
+
+    Solved problem with nav bar in pages that are not home
+
+commit 4a795cd6cc8a7f872ed3813ef6df592b0bc6533f
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 13:22:58 2016 +0200
+
+    Worked on header of pages
+
+commit 318cd5c68c8f4e69dca6f96fa8538e7e7c1beb6b
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 27 13:04:07 2016 +0200
+
+    Solved problem with nav bar in pages that are not home
