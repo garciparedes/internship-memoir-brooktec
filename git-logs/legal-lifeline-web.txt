@@ -1,0 +1,212 @@
+commit dca0793245f8f6e16ddc8ec9793fb117475288fe
+Merge: 7794686 04bb2c0
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Sep 5 10:33:19 2016 +0200
+
+    Merge remote-tracking branch 'origin/feature/how-we-can-help-you-page' into develop
+
+commit 7794686af67065cd50c4ef97d641e4735c038928
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Sep 5 09:36:06 2016 +0200
+
+    Worked on search questions on faqs page
+
+commit 638f53b0d81445b8de3997567896d33abab22e3d
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 14:55:05 2016 +0200
+
+    Worked on question search
+
+commit 263cf6f21cf12f84533bcaa579d648b41043b0e9
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 14:13:18 2016 +0200
+
+    Fixed bugs and added question post type to FAQs page
+
+commit 75eb231493a54ae7145f0ae163f2f712edbab47f
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 13:34:53 2016 +0200
+
+    Created custom post type for questions and worked on style
+
+commit 0769c86e605481373fa4647eee9fcf4c7ba599d6
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 13:03:50 2016 +0200
+
+    Working on question list
+
+commit 04bb2c0153bcf7941f8e89a8a67f42c2156ef6d0
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 12:36:51 2016 +0200
+
+    Modularised code of Testimonials with templates
+
+commit cfaac11ebfbfed04b07b235d4bb42e54908832fe
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 12:02:10 2016 +0200
+
+    Applied styles to FAQs header
+
+commit 8375eb326e8ed94860498d57b2672210e8106787
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 11:37:06 2016 +0200
+
+    Worked on FAQs header
+
+commit ff96635ae23e26a64d7739709abd7899be56be26
+Merge: 97c4127 bac672a
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 11:35:32 2016 +0200
+
+    Merge remote-tracking branch 'origin/feature/how-we-can-help-you-page' into feature/faqs-page
+
+commit bac672a73f32606a69190ac7c8f98588dfb697ec
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 11:33:18 2016 +0200
+
+    Improved testimonial carousel styles
+
+commit 6e08a3a70c7c8fba478c8ce6456a0be631c0c53d
+Merge: 97c4127 5313e02
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 11:23:47 2016 +0200
+
+    WIP on feature/faqs-page: 97c4127 Added custom fields to faqs page and worked on contact
+
+commit 5313e02acb4336a007b4cb3adfd3f7f46b2a9b07
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 11:23:45 2016 +0200
+
+    index on feature/faqs-page: 97c4127 Added custom fields to faqs page and worked on contact
+
+commit 97c41272c1363db5c6b4912553e6193fd8f5db1d
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 10:24:01 2016 +0200
+
+    Added custom fields to faqs page and worked on contact
+
+commit e041aa05a943a4f107e7d7477168c5e8fe692d10
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 09:46:25 2016 +0200
+
+    Fixed bug with carousel's arrows
+
+commit 478872840ef08d391f7f787ccb0e10b03d9cf247
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 09:30:18 2016 +0200
+
+    Created templates for FAQS
+
+commit b2f86234433da7ce9b54793f69c21ee1227521e5
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Sep 2 08:56:37 2016 +0200
+
+    Minor changes on "how we can help you" page
+
+commit 4eb12fa630a7e54978e275fe03b84b4c4281a915
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Sep 1 13:31:24 2016 +0200
+
+    Fixed bug
+
+commit c4a16089d1529ae700f74de29743c46b140c0db7
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Sep 1 13:29:20 2016 +0200
+
+    Code refactoring on testimonials
+
+commit 616baa7395cf5c67b2ae79a68ea1dcaff9d0a2c7
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Sep 1 11:23:19 2016 +0200
+
+    improved testimonial carousel
+
+commit 9d1e8f9cfd1faa5903a77f3ace4dfb62545e6629
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Sep 1 11:14:24 2016 +0200
+
+    Changes in styles of testimonials and added carousel to template
+
+commit 3a1ec0d82b2c253e33ba146ee0b1db8d2740a67e
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Sep 1 11:07:52 2016 +0200
+
+    Worked on testimonial styles
+
+commit 6f8fb730f51988f58a9661e57a2eda7ac95237ae
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Sep 1 10:38:40 2016 +0200
+
+    Worked on testimonials
+
+commit a0ebcb9428f14d441ee5446c7b2b4b5022b343bb
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Sep 1 10:19:02 2016 +0200
+
+    Worked on testimonials
+
+commit 118baa87e00f2178d979595be583debb1a0300d7
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 31 13:15:32 2016 +0200
+
+    Worked on testimonial carousel
+
+commit 7121e628eacb85a7df3dc1e02962168763b69ba0
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 31 12:31:54 2016 +0200
+
+    Worked on testimonial grid, modal, and carrousel
+
+commit d9930f94dc6c9d05392ed75d4fd433e5d58d25b1
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 31 10:56:18 2016 +0200
+
+    Worked on testimonial modals
+
+commit ede964b4545e9ee321233dbbab9753d4e29c1f9b
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 31 10:02:17 2016 +0200
+
+    Worked on testimonials grid and modal
+
+commit e19e299c7c974410e5a4ecee477278282fc4db7b
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 30 14:54:13 2016 +0200
+
+    Worked on testimonial grid
+
+commit f35f97b93a5a26140ecc88a8ca0f42093e8b8847
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 30 12:51:44 2016 +0200
+
+    Added Custom Fields to How we can help you? page and fixed bug with page content
+
+commit 9faae23b7be1ae4af00c01463a673bda5c9867aa
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 14:17:20 2016 +0200
+
+    Worked on 'How we can help you?' page structure
+
+commit 1ce4c97b1f43f757ffa1eab0892c9c805fc4ba6c
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 11:47:28 2016 +0200
+
+    Renamed taxonomy to testimonialType and added icon custom field to it
+
+commit 212b7606d844cc7d00d3a1e3d805d08a1699c585
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 11:41:59 2016 +0200
+
+    Updated ACF plugin to 4.4.8
+
+commit c7ee6d6f4c1868cb4bf7776d5bae9640b2860663
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 25 08:42:22 2016 +0200
+
+    Worked on Testimonial Custom Type and it taxonomy
+
+commit b982ad20b60a13c66eee244548f22501953d4703
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 24 13:57:30 2016 +0200
+
+    Added taxonomy and custom field to Testimonial

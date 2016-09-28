@@ -1,0 +1,221 @@
+commit f1f8fc05f3a9c8b94e742ece8bcd2c3411750690
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 30 12:18:33 2016 +0200
+
+    Fixed strange's safari bug
+
+commit ead64eb6a1b472e00a32bf92f7e74c8bfb67cc91
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 14:40:02 2016 +0200
+
+    Fixed bug style of sidebar icons and icon of navbar in mobile
+
+commit 200c69e9adb56116409faa202e2f1931333722fd
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 14:13:34 2016 +0200
+
+    Improved logo animation on navbar
+
+commit dac3beea65f45facc53ac0408738536650767a84
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 14:04:22 2016 +0200
+
+    Fixed bug in firefox with banners
+
+commit f0009c699174e6f2713b9c68755cf7808ee874d0
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 09:27:28 2016 +0200
+
+    Fixed bug with separator
+
+commit fa8646c7fe682929931251473ca6a0304f0359a2
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 09:19:33 2016 +0200
+
+    Fixed bug with font import with ssl connection
+
+commit 8bf9654f4aa6fa00cae5de2d83f7826ef7d9b89b
+Merge: 5d5b640 37eefce
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 08:33:18 2016 +0200
+
+    Merge remote-tracking branch 'origin/feature/new-link-and-highlight-color'
+
+commit 37eefce304f24c3b189f2c02bc6adbe3447a665f
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 08:32:33 2016 +0200
+
+    Applied new colour styles to links
+
+commit 5d5b640888f450a71caac295eb81e7a62ddaa974
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 14:35:13 2016 +0200
+
+    Fixed bug with collapsed navbar height
+
+commit b0c0fdf67fbda36f23b19e9a609e3fa7555290b0
+Merge: 4d9801f 92da544
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 14:29:40 2016 +0200
+
+    Merge remote-tracking branch 'origin/feature/fixed-top-bar'
+
+commit 92da544f54f86053836c7812b18d16062fe3ad30
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 14:29:05 2016 +0200
+
+    Added bar resize on scroll
+
+commit 4d9801fbc4e8d79db0ff5202b80858f76933a3c2
+Merge: eeb6a21 f0052ab
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 13:32:48 2016 +0200
+
+    Merge remote-tracking branch 'origin/hotfix/font-missing'
+
+commit eeb6a21447a1c69a38ead71cc4d5912111a237fe
+Merge: a05efe6 60cbfe3
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 13:31:52 2016 +0200
+
+    Merge remote-tracking branch 'origin/hotfix/oval-icons-mobile'
+
+commit 0a323d14a531ab78a21446e7507c33e18abb9dce
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 13:23:44 2016 +0200
+
+    Changed colour of news highlight
+
+commit f0052ab371437ed2ea72229d0956fd26eb1d2572
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 13:14:06 2016 +0200
+
+    Fixed bug with fonts.
+    Caused of when connection is secure that it don't allow insecure includes.
+
+commit 60cbfe3359d9fcb54e4e0f9908cf27ddd75cfdba
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 12:45:33 2016 +0200
+
+    Fixed bug with icon image ratio on home page
+
+commit 303d5f44d45c3be26cac08414787bb442aaf2c04
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 12:36:39 2016 +0200
+
+    Changed nabber logo size on mobile versions
+
+commit a05efe650b4d598cdc031130a5c1c9b114ddfd43
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 25 13:52:25 2016 +0200
+
+    Occulted date on case studies
+
+commit c77847939eb82befc464580f2735b773beb1e202
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 23 11:28:30 2016 +0200
+
+    Bug Commit
+
+commit 69671bb9025cf1bff443cc8bd9219764780b8d6d
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 23 11:26:34 2016 +0200
+
+    Changed style of ul
+
+commit 01134099f315207bcb982275b4da926aed5a27b4
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 23 10:05:18 2016 +0200
+
+    Fixed navbar on desktop version
+
+commit d38adc0f5d2ed82c12bad9a274e7452875ce2dc6
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 23 08:46:17 2016 +0200
+
+    Now Contact Link always appears
+
+commit eef183659b45020b21d75b151e3d4639ec679df2
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 4 08:50:57 2016 +0200
+
+    Fixed bug of sidebar and improved header function
+
+commit 2af9e080927d932760acf040721d6a12c9d1b276
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 13:48:56 2016 +0200
+
+    Hot Fix
+
+commit 3072e4fd86bca352273ff9516b2c4a89a9731e90
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 13:13:16 2016 +0200
+
+    Hot fix: Text entered on head
+
+commit 6e55ff6fc2293b909f71b574bb205db6b103d204
+Merge: bef7c0b 0ce22d9
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 12:59:25 2016 +0200
+
+    Merge remote-tracking branch 'origin/feature/update-sidebar'
+
+commit 0ce22d93b8a653a2e434953546268e257bd7fcee
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 12:55:54 2016 +0200
+
+    Fixed bug with content width
+
+commit 3019dd7040e12892e369fd858b3eb8274d82de36
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 12:45:43 2016 +0200
+
+    Worked on sidebar
+
+commit bef7c0be9489a78cc4e6766e1a3cc7942aa2b166
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 12:27:45 2016 +0200
+
+    Fixed bug with custom menu items
+
+commit 483ff6cc5d7c8ac1f3c28afbc84d4c9128ee35b4
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 10:50:47 2016 +0200
+
+    Improved Style
+
+commit 8e0629a033b3887938adf528678103fc66be017d
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 10:42:32 2016 +0200
+
+    New Approach to get section parent done. Worked on styles
+
+commit 53df4b6a95037d35f77aac0977120d1a0549a659
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 3 09:45:27 2016 +0200
+
+    Worked in new header with css approach
+
+commit 2a10db1a6f69f6c20d73ff8448b0fa6300f985a5
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 2 13:55:33 2016 +0200
+
+    Added white version of the icons
+
+commit 27ecebab9eb954996e32ebbff90b3f26f240b91d
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 2 13:43:35 2016 +0200
+
+    Changed main page icons
+
+commit c9cb46e6caa695c8130a5c80c7153d55d8057ff9
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 2 13:27:02 2016 +0200
+
+    Fixed gitignore problems
+
+commit 10e05d0125380a7df6a411af9c2b3f519ec074ce
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 2 13:25:24 2016 +0200
+
+    Added gitignore
