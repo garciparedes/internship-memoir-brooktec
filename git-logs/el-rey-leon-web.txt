@@ -1,0 +1,311 @@
+commit 9663274bf723bbd228c850e013a1c32e29e0443e
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 31 08:06:23 2016 +0200
+
+    Added css and less to plugins
+
+commit aadf0d3cae467b243546d03f515a442f691f693c
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 30 11:42:50 2016 +0200
+
+    Added hash link
+
+commit cd3e01c99b7b676f1cbec30896cc658cd7f3f171
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 30 10:14:37 2016 +0200
+
+    Fixed bug on plugin and added css to it
+
+commit 8adc7fa78152178c44fb0dc8092837e84c58b180
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 13:10:49 2016 +0200
+
+    Change label of gallery
+
+commit 13852bf0bd466b1e476cb8efb351e872cf1d0fbb
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 29 08:00:17 2016 +0200
+
+    Fixed bug at end of playing song
+
+commit cd31b07e0afd9a752b01abba8769f9a75701e599
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 12:13:56 2016 +0200
+
+    Fixed bug when first song change it position
+
+commit a69e94284e4c82b1c00a5152f8ffab574b4358a6
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 10:41:28 2016 +0200
+
+    now song is sorted
+
+commit 7b4a851eb79813fe90e071984f6f8db024215195
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 26 08:58:15 2016 +0200
+
+    Added hover with vote count on image poll of descubre-erl
+
+commit 94c8c1e6c5fc7ea822fb7d71c7a09b9141713882
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 25 10:39:08 2016 +0200
+
+    Added animations when song is voted
+
+commit f53b8a255287a374b735a05ee733b57b1da2f930
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 25 09:58:19 2016 +0200
+
+    Now songs update in the view their values
+
+commit fa6f1b02dfee72b337b467ba3bf9ba71f6357477
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 24 11:25:27 2016 +0200
+
+    Improved Player and fixed Safari and Firefox bugs
+
+commit 3db2552b1e70729f525cec00e17b245d22dd19b6
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 24 10:00:10 2016 +0200
+
+    Fixed bug of soundcloud player on home page
+
+commit 2719a59661bb2ae7fd26f7ec480ee1b850c9a151
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 22 12:19:58 2016 +0200
+
+    Fixed bugs in admin with firefox and safari
+
+commit c58b0fd3c08080f6fb80ee9a21fb04facd71d089
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 22 12:02:53 2016 +0200
+
+    Fixed bug with safari and firefox
+
+commit 4a0fffdced96e28e80e4c89fe452eb2f4f90072a
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 22 09:42:15 2016 +0200
+
+    added js-Cookie to soundcloud plugin
+
+commit 3f6a87dc8ee0bbb7dbfad331b676e2e613fdae03
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 22 08:57:11 2016 +0200
+
+    Worked on delete option of character and character polls
+
+commit 25e0212a89b03acc634d1001ae1d7269c17857a3
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 19 14:54:43 2016 +0200
+
+    Code Refactoring
+
+commit 44a5f544b41e21f9cfa8e0cbef592974e41c2426
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 19 14:29:54 2016 +0200
+
+    Done with Vote Image Submit
+
+commit e1a97731ee4b1bed0c2ddd81a96571152a3cc6a4
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 19 13:44:29 2016 +0200
+
+    Worked on Vote Image VS submit
+
+commit 1a2e4fe51117f4f0a0360a3cf04c514abd77a598
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 19 10:53:10 2016 +0200
+
+    Worked on image vs poll creation
+
+commit 656504e2d3d8984192d905fb3c592d63279aa31c
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Fri Aug 19 09:35:31 2016 +0200
+
+    Worked on Image poll vs activation and deactivation
+
+commit 46c5c3722d09d6f5d4569597f9cf99fa7dd000fb
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 18 14:54:19 2016 +0200
+
+    Working on visualise Image VS polls in admin panel
+
+commit 16d6fd593919f6b3f01ddae0db8791c387efb1c3
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 18 14:08:18 2016 +0200
+
+    Worked on Character creation
+
+commit 9efed210cf85c21b916063ec46b8c69db1951ca1
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 18 12:47:57 2016 +0200
+
+    Worked on Character creation from panel
+
+commit dd47652654d87b62c98d7ccd01f25c4b8088cc7c
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 17 14:48:59 2016 +0200
+
+    Worked on vote manager panel
+
+commit eed4af1c6dd95eba086a2c708704d4a6320e4f22
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 17 13:04:56 2016 +0200
+
+    Worked on poll image vs submit with ajax
+
+commit 5d8d45be27896ab1af1a976ecfba9625a1cdfba2
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 17 11:39:20 2016 +0200
+
+    Worked on vote image plugin
+
+commit ad22a0929e823ceaecfea49e009c78f403d46a7d
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 17 08:49:51 2016 +0200
+
+    Worked on vote-image-vs admin panel
+
+commit 662d4687d1294315a70d1daf801b0f50f8df6857
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 16 13:40:31 2016 +0200
+
+    Modularised plugins and created vote-image-vs shortcake
+
+commit 79be3ff5ce2d0912bdff29348ccbfdd46e35369f
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 16 13:11:23 2016 +0200
+
+    Created vote-image-vs from skeleton and CPT who represents characters.
+
+commit daf25ed651109b055b0b2c3e928ad8aa1fdfbd07
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 16 12:28:09 2016 +0200
+
+    Minor improvements
+
+commit c6461689af8413f90a03c7950d9cbde23787d263
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 16 12:11:55 2016 +0200
+
+    Modularised Soundcloud vote plugin
+
+commit 4ff588dce2569e1be61026126aa5312425f5c192
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 16 09:59:57 2016 +0200
+
+    Worked on poll representation in panel
+
+commit 0a999a8ee0e9c3fa499352fe953a1247d3c26e41
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 16 08:23:36 2016 +0200
+
+    Added poll identifier to view in wp admin
+
+commit 52dda2330a7fd11a59a638eecd0faacdab1c2ce3
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 11 14:43:56 2016 +0200
+
+    Modularised code of variables of plugin
+
+commit 093a070ce8c22ef5ae332cf90be24c71fe8abccf
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 11 13:32:27 2016 +0200
+
+    Reformatted code of plugins
+
+commit 8b7b0c8c8e833fe0a0c4b34ac05713b79783d6f1
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 11 12:35:22 2016 +0200
+
+    Worked on Vote Manager Config Panel
+
+commit 723b685c0d3edf437e098bc6cfdcef369b75b4e7
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 11 10:37:43 2016 +0200
+
+    Created plugin Vote Manager from skeleton http://wppb.io/
+
+commit 963d13e08f71fb8a266558aeb7aa85fe755b7515
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 11 10:12:05 2016 +0200
+
+    Added Tweet and Gallery Custom fields on Descubre page
+
+commit 66167d1bde75febb68c9dabe94c4f0bb71dfbef5
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 11 09:23:02 2016 +0200
+
+    Created necessary custom fields for galleries and featured tweet and reorganised latest custom fields
+
+commit ca4bd18059671c2d0d832f429f20e0e08e0e56d8
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Thu Aug 11 08:52:24 2016 +0200
+
+    Renamed Plugin
+
+commit b70f61826f3f032c33e4b8b73436302f4f4a7c29
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 10 14:46:04 2016 +0200
+
+    Improved file hierarchy of Vote Player Plugin
+
+commit f70a2c69fa803ddbba1a5fb8a696ce8bc7cdc006
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 10 13:58:12 2016 +0200
+
+    Modularised Vote Player to a WP Plugin
+
+commit a8887f2ff9e684ba8e60e144b39df8813aa7f51b
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 10 13:13:32 2016 +0200
+
+    Refactor Code Vote Player JS
+
+commit 504bb8714b789213044926b6ce191572dfb547cf
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 10 12:14:32 2016 +0200
+
+    Improved vote playlist
+
+commit d4a6309e441a9ef5d9e2de77a6105521a1f3358f
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Wed Aug 10 09:48:10 2016 +0200
+
+    Completed ajax communication for vote count
+
+commit d24d49970396a725ca170f5a9c1f2e1973c4ad7c
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 9 14:54:00 2016 +0200
+
+    Worked on vote song store
+
+commit 135e9a78f6e4c7e8bc5dac4b9d784f1c1db56ff7
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 9 10:56:25 2016 +0200
+
+    Reformatted code to be more modular
+
+commit b70eb6cf6f083426d5d46510a1487d38908e0a53
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 9 10:17:50 2016 +0200
+
+    Reformatted SongPlayerVote to Object Oriented
+
+commit 642551ece892306fc605e3c706fdc3b7edfc0e51
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Tue Aug 9 08:53:13 2016 +0200
+
+    Prepared statements to sent and receive votes
+
+commit f3dd398f463192416cf7cb8426f00616f2e5d54a
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 8 14:54:19 2016 +0200
+
+    Worked on play-pause buttons of rate player
+
+commit dc19c0e24c4dbfa8c4fd6d37405856aa68f675a1
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Aug 8 14:36:21 2016 +0200
+
+    Worked on vote player

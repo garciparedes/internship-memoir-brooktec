@@ -1,0 +1,234 @@
+commit 88ea53a51594bca231b23592ef41d5023958426a
+Author: Sergio García <sergio@garciparedes.me>
+Date:   Mon Sep 5 12:47:25 2016 +0200
+
+    Added instagram proof
+
+commit 3484991a3fda191a986ea51e21a6e844de34ae0b
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Fri Jul 22 14:37:54 2016 +0200
+
+    Fixed bugs and returned items sorted by date
+
+commit 79800722d3681c56e3845b0a3879bb0905a4dd50
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 15:44:59 2016 +0200
+
+    Fixed bug with headers
+
+commit eed3783b886c009c2c6fdf7fe4eba8ca735261b3
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 15:15:48 2016 +0200
+
+    No auth on create user route
+
+commit d67fcaeb16f17b74455f7807cc38ed0f1924f63a
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 13:46:26 2016 +0200
+
+    Fixed bug of Doctrine's ArrayCollection
+
+commit 37eca9ccc4b5760eb8f92c4b3990d61c76866dc3
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 13:37:48 2016 +0200
+
+    Reformatted json response objets
+
+commit c7354421320a877cd215e4b2e25c5995f08cb151
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 13:25:14 2016 +0200
+
+    Added more attributes to entities
+
+commit 7c31c7b6091623bb6ede87a9fcb0c2da3cfb2f2d
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 13:01:21 2016 +0200
+
+    Added basicAuth
+
+commit d21be46ded1c76bed7ef421449772048f045b049
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 12:18:52 2016 +0200
+
+    Improved code and worked on products
+
+commit 5ecc206bfa7e547df3426f98016868a68992e868
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 20 10:12:14 2016 +0200
+
+    improved code and added GET of all products
+
+commit bdcdc207132dde9a564b6c1e14952e78d8289e53
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 17:44:32 2016 +0200
+
+    Added delete
+
+commit 4e4b7168063a7a0ece63d0331d665c73b565f69d
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 17:41:27 2016 +0200
+
+    Worked on crud item
+
+commit ed8f9f69a32cc5deb3aa890b2cb7a4ae3b045a2d
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 16:39:49 2016 +0200
+
+    Improved code
+
+commit 3d96a6e7bc1e01b2df06be69b0e59ee0a9eead5e
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 16:23:26 2016 +0200
+
+    now returns list of items
+
+commit ff6e730125d2899550762763d767aff0166ea216
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 12:57:17 2016 +0200
+
+    Working on get items
+
+commit dad892831172f0f3aa0c6d2ed9783c7d559d26a3
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 12:01:00 2016 +0200
+
+    Created Models
+
+commit d98ebcfa40eddc6e8eeb7be16a3bb928495c6dd8
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 09:49:46 2016 +0200
+
+    Created project skeleton from https://github.com/oanhnn/slim-skeleton
+
+commit 8839b628129c4a0e51ccab29057ed925d253a3dd
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Tue Jul 19 09:40:47 2016 +0200
+
+    Finished tutorial
+
+commit 2d81790826b35f734b466128c8485867d201547c
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 17:53:56 2016 +0200
+
+    working on doctrine tutorial
+
+commit 2c4ece26501b5aa601f90a39fb4106d4f3f39edb
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 17:14:09 2016 +0200
+
+    Started tutorial
+
+commit 5ea748d7dc352569b88e449c13fec7390bc02f28
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 17:05:26 2016 +0200
+
+    improved .htaccess
+
+commit baaf0864ad8b4d5d10e1254412f7e19613ec50a9
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 14:22:16 2016 +0200
+
+    Added Middleware
+
+commit 621c27c6430fdc75710604268fd7e6ff5b42f975
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 14:01:00 2016 +0200
+
+    Worked on adding users
+
+commit 925bca5ab3d70356a87c8c700274f54e5a926c9f
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Mon Jul 18 13:26:52 2016 +0200
+
+    Added basic auth
+
+commit 29527e564315cb1000b450367c2eb0aa0736ea71
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 19:24:04 2016 +0200
+
+    Improved code style
+
+commit 91dcd89154a399a976343ce120dbf200c908c26d
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 19:14:24 2016 +0200
+
+    Added update method
+
+commit 2d2cc7aab7bde2457117293425e434b368e7b5df
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 18:19:19 2016 +0200
+
+    now items can be created
+
+commit a7884a00683cb481c393f232dc04a5fc3a3c59df
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 14:31:09 2016 +0200
+
+    added get by id items
+
+commit d5353c3604f3ec0d7f8d443c9370a7d38fe010ad
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 14:17:25 2016 +0200
+
+    Added get Method of Items
+
+commit 28ec57764af0684ab8a165bb069df2ccfc1bcc43
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Sun Jul 17 13:50:58 2016 +0200
+
+    Created project shopping-list and worked in
+
+commit 495d8eda2b23993ed7d3ebc6874cf71f81f3f653
+Merge: 1d53ac4 945dd08
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 13:03:11 2016 +0200
+
+    WIP on tutorial: 1d53ac4 Added name constants and changed response formats to JSON
+
+commit 945dd0812c7f6eb187d4ad7737117720cf68eb26
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 13:03:11 2016 +0200
+
+    index on tutorial: 1d53ac4 Added name constants and changed response formats to JSON
+
+commit 1d53ac4190298a6c07f5a860059bf6803d1b991f
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 12:48:28 2016 +0200
+
+    Added name constants and changed response formats to JSON
+
+commit 45c5bb8712f72828a03b0446c24e2b8779164572
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 10:49:10 2016 +0200
+
+    Added get tickets by id and post.
+
+commit 96aac7205625854333af0a7e35e85e65c5e76ae6
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Thu Jul 14 10:15:47 2016 +0200
+
+    Added database config file
+
+commit 3567b9f0b377c988e61cc85c1203bf73e606bc98
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 13 17:55:31 2016 +0200
+
+    Working on Slim 3 example http://www.slimframework.com/docs/tutorial/first-app.html
+
+commit f0c7413b827dbfa5365c6196d56faf87e06c1410
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 13 15:40:35 2016 +0200
+
+    Timezone is set to UTC
+
+commit da882d85f3730da6d68a9ea9f0c3e30095c52bae
+Author: garciparedes <garciparedes@gmail.com>
+Date:   Wed Jul 13 15:29:26 2016 +0200
+
+    Added slim3-skeleton from https://github.com/akrabat/slim3-skeleton
+
+commit 73155375e35e42b132a2e1579f260e43dfdbf804
+Author: Sergio García <garciparedes@gmail.com>
+Date:   Wed Jul 13 14:11:27 2016 +0200
+
+    Initial commit
