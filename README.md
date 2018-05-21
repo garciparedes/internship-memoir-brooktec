@@ -1,4 +1,4 @@
-# Internship Memory at Brooktec
+# Internship Memory: Brooktec
 
 
 ## Description
