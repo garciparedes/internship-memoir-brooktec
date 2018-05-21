@@ -1,5 +1,11 @@
-# brooktec-internship-report
-internship report during my stay in Brooktec https://brooktec.com/
+# Brooktec Internship Memory
 
-## Like it? Awesome!
-If you find this tool useful, consider supporting or [buying me a beer](https://www.paypal.me/garciparedes/2):)
+
+## Description
+
+Internship memory during my stance at Brooktec https://brooktec.com/
+
+
+## Authors
+  
+  * Sergio García Prado - [garciparedes.me](http://garciparedes.me)
