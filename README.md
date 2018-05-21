@@ -3,7 +3,7 @@
 
 ## Description
 
-Internship memory during my stance at Brooktec https://brooktec.com/
+Internship memory based on my stance at Brooktec https://brooktec.com/
 
 
 ## Author
