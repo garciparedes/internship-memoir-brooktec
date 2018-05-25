@@ -1,9 +1,9 @@
-# Internship Memory: Brooktec
+# Internship Memoir: Brooktec
 
 
 ## Description
 
-Internship memory based on my stance at Brooktec https://brooktec.com/
+Internship memoir based on my stance at Brooktec https://brooktec.com/
 
 
 ## Contents
